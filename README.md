@@ -2,7 +2,7 @@
 
 
 OVERVIEW OF ANALYSIS:
-To assist the nonprofit Foundation Alpahbet Soup with creating a binary classifer in the provided dataset that can predict whether applicants will be successful if funded by Alphabet Soup.
+To assist the nonprofit Foundation Alphabet Soup with creating a binary classifer in the provided dataset that can predict whether applicants will be successful if funded by Alphabet Soup.
 
 RESULTS:
 
@@ -33,6 +33,6 @@ RESULTS:
        I tried various combinations of increase the epochs from 100 to 200 in my first Optimization and from 100 to 150 and 4 hidden layers in my third Optimization.  I also increased the number of neuron nodes.
 
 SUMMARY:
-I was disappointed as none of my optimization attempts changed the accuracy by very much at all.  The highest I was able to achieve with the model was 74.18% - below the 75% target.  In researching it appears the Random forest algorithim might be a good possibility to try this analysis.  Random forest is popular for classification problems and might be better suited for this dataset analysis.
+I was disappointed as none of my optimization attempts changed the accuracy by very much at all.  The highest I was able to achieve with the model was 74.18% - below the 75% target.  In researching it appears the Random forest algorithm might be a good possibility to try this analysis.  Random forest is popular for classification problems and might be better suited for this dataset analysis.
 
 
